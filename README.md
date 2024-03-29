@@ -14,6 +14,6 @@ Connect to the mysql database using the information provided. Source the schema.
 https://drive.google.com/file/d/16RhDwlsmSpLBISXFFlt8OwuBbJ_9-fEb/view
 
 ### Screenshots
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
+![alt text](assets/images/image.png)
+![alt text](assets/images/image-1.png)
+![alt text](assets/images/image-2.png)
